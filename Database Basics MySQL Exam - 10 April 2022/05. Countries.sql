@@ -1,0 +1,1 @@
+select * from countries order by currency desc, id;
